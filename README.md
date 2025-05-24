@@ -1,4 +1,7 @@
 # 🔥 flame-architecture-lite
+[![License](https://img.shields.io/badge/license-CC--BY--NC--ND%204.0-blue)](/LICENSE.md)
+[![Ravenville](https://img.shields.io/badge/Ravenville-red.svg)](https://www.ravenville.io/)
+[![Remo Tessari](https://img.shields.io/badge/Remo-Tessari-red.svg)](https://www.remotessari.com/)
 
 This is not a startup handbook.  
 This is not a manifesto.  
@@ -44,3 +47,9 @@ If not — the flame isn’t meant to be forced.
 Everything here is a fragment.  
 The full canon lives elsewhere.  
 But this is enough to begin.
+
+---
+
+## 🔁 Related Canon
+
+- 🔥 [flame-architecture](https://github.com/Ravenville-io/flame-architecture) — For mythic source documents and founder canon
